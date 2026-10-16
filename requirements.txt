@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+opencv-contrib-python
+Pillow
